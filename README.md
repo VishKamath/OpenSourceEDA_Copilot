@@ -319,6 +319,4 @@ tests/test_verification_pipeline.py ....                                    [100
 
 ---
 
-## 8. License
 
-Distributed under the MIT License. See `LICENSE` for more information.
