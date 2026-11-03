@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Volatile EDA Workspaces & Simulation Traces
+workspaces/
+*.vcd
+*.vcd.gz
+*.vvp
+*.log
+coverage.dat
+
+# Embedded Independent Sub-Repositories
+ASIC/
+
+# IDE / OS Artifacts
+.DS_Store
+.vscode/
+.idea/
